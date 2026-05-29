@@ -38,8 +38,7 @@ Passionate about software development, data analytics, and creating real-world p
 * Git & GitHub
 * VS Code
 * XAMPP
-* REST API
-* Axios
+* Sublime Text
 
 ## Data Analytics & Libraries
 
